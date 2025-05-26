@@ -30,6 +30,7 @@ A full-stack Internship Management System built with Angular, Flask, and AWS Dyn
 internship-management-system/
 ├── backend/              # Flask API
 │   └── app.py
+|___
 ├── frontend/             # Angular App
 │   └── internship-ui/
 ├── README.md
